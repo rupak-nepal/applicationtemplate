@@ -1,0 +1,44 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.rupak.app",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "monolith",
+    "baseName": "springtemplate",
+    "packageName": "com.rupak.app",
+    "packageFolder": "com/rupak/app",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "M2Q1YTEzZGNkMjhjYzRiZGE4ZWJjZmYyOGMzM2FlYjFmZmZlZWFmYjg1ZDlmYzllYjIzMTEzOTI1NGFhY2RlYmY2N2I2ZWM4YTk0NThlYThlYTJkOGM1ZTQyY2JlYTU1MTNmMDhiODZkYmJjOTAxOWFhN2Q0NWVhNTczNDk5YzE=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "cucumber"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "zh-cn",
+      "fr",
+      "hi",
+      "ja",
+      "ta"
+    ]
+  }
+}
